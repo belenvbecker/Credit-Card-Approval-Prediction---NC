@@ -32,23 +32,29 @@ El objetivo es desarrollar un modelo predictivo que permita a las instituciones 
 # Cronograma
 
 El proyecto se desarrollará en un período de 5 semanas, con tres sprint que son los siguientes:
-•	Sprint 1: Puesta en macha del proyecto. 2 Semanas
-o	Inicialización del proyecto realizando minería de datos y documentación del datawarehouse.
-o	Establecimiento del stack tecnológico que utilizaremos durante el proyecto.
-o	Implementamos la metodología SCRUM realizando daylis, para optimizar la producción.
-o	Realización de tareas puntuales, KPI's y diagrama de Gantt.
-o	Equipo de trabajo, Roles y responsabilidades.
-•	Sprint 2: Data Engineering. 1 Semana
-o	Realización de extracción transformación y carga de la data.
-o	Análisis Exploratorio de datos (EDA)
-o	Documentación: Diagrama entidad relación, Diccionario de datos, Workflow y tecnologías.
-o	MVP.
-•	Sprint 3: Data Analytics y Machine learning. 2 Semanas.
-o	Diseño de Dashboard realizado en power BI/Looker/Tableau.
-o	Creación de un modelo de recomendación para nuestro cliente y puesta en producción en la página web.
-o	Documentación: selección del modelo, feature engineering, informe de análisis.
-o	Video del proyecto realizado.
- 
+
+- Sprint 1: Puesta en macha del proyecto. 2 Semanas
+
+- Inicialización del proyecto realizando minería de datos y documentación del datawarehouse.
+- Establecimiento del stack tecnológico que utilizaremos durante el proyecto.
+- Implementamos la metodología SCRUM realizando daylis, para optimizar la producción.
+- Realización de tareas puntuales, KPI's y diagrama de Gantt.
+- Equipo de trabajo, Roles y responsabilidades.
+
+- Sprint 2: Data Engineering. 1 Semana
+  
+- Realización de extracción transformación y carga de la data.
+- Análisis Exploratorio de datos (EDA)
+- Documentación: Diagrama entidad relación, Diccionario de datos, Workflow y tecnologías.
+
+- Sprint 3: Data Analytics y Machine learning. 2 Semanas.
+  
+- Diseño de Dashboard realizado en power BI/Looker/Tableau.
+- Creación de un modelo de recomendación para nuestro cliente y puesta en producción en la página web.
+- Documentación: selección del modelo, feature engineering, informe de análisis.
+- Video del proyecto realizado.
+
+
 
 ### Exploración, Transformación y Carga (ETL)
 
@@ -66,10 +72,17 @@ o	Video del proyecto realizado.
 
 
 
+
+
+
 # Conclusiones
 
 
+
+
 # Stack Tecnológico
+
+
 
 
 # <a name="Contacto">Contacto</a>
