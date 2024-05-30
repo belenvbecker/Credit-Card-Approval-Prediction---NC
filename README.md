@@ -35,11 +35,11 @@ El proyecto se desarrollará en un período de 5 semanas, con tres sprint que so
 
 - Sprint 1: Puesta en macha del proyecto. 2 Semanas
 
-- Inicialización del proyecto realizando minería de datos y documentación del datawarehouse.
-- Establecimiento del stack tecnológico que utilizaremos durante el proyecto.
-- Implementamos la metodología SCRUM realizando daylis, para optimizar la producción.
-- Realización de tareas puntuales, KPI's y diagrama de Gantt.
-- Equipo de trabajo, Roles y responsabilidades.
+  Inicialización del proyecto realizando minería de datos y documentación del datawarehouse.
+  Establecimiento del stack tecnológico que utilizaremos durante el proyecto.
+  Implementamos la metodología SCRUM realizando daylis, para optimizar la producción.
+  Realización de tareas puntuales, KPI's y diagrama de Gantt.
+  Equipo de trabajo, Roles y responsabilidades.
 
 - Sprint 2: Data Engineering. 1 Semana
   
