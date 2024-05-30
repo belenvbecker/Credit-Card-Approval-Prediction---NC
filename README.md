@@ -42,17 +42,17 @@ El proyecto se desarrollará en un período de 5 semanas, con tres sprint que so
   Equipo de trabajo, Roles y responsabilidades.<br>
 
 - Sprint 2: Data Engineering. 1 Semana
-  
-- Realización de extracción transformación y carga de la data.
-- Análisis Exploratorio de datos (EDA)
-- Documentación: Diagrama entidad relación, Diccionario de datos, Workflow y tecnologías.
+
+  Realización de extracción transformación y carga de la data.<br>
+  Análisis Exploratorio de datos (EDA).<br>
+  Documentación: Diagrama entidad relación, Diccionario de datos, Workflow y tecnologías.<br>
 
 - Sprint 3: Data Analytics y Machine learning. 2 Semanas.
   
-- Diseño de Dashboard realizado en power BI/Looker/Tableau.
-- Creación de un modelo de recomendación para nuestro cliente y puesta en producción en la página web.
-- Documentación: selección del modelo, feature engineering, informe de análisis.
-- Video del proyecto realizado.
+  Diseño de Dashboard realizado en power BI/Looker/Tableau.<br>
+  Creación de un modelo de recomendación para nuestro cliente y puesta en producción en la página web.<br>
+  Documentación: selección del modelo, feature engineering, informe de análisis.<br>
+  Video del proyecto realizado.<br>
 
 
 
